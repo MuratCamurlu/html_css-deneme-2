@@ -1,0 +1,63 @@
+body{
+    
+    background-color: rgb(178, 126, 226);
+}
+.div{
+    color: rgb(23, 23, 116);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.img{
+   width: 35%;
+}
+.div2{
+    background-color: blue;
+    width: 85%;
+    margin: auto;
+    border-radius: .7rem;
+    padding: 1rem ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+
+
+}
+ul{
+    list-style-type: none;
+    margin-left: -2.1rem;
+
+}
+li{
+    margin: .7rem 0;
+}
+.sekilli{
+    border-left: 3PX solid orange;
+    color: yellow;
+    padding-left: .7rem;
+}
+.sekilsiz{
+    padding-left: .7rem;
+}
+span{
+    background-color: orange;
+    color: black;
+}
+a {
+    border: 1px solid black;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(249, 202, 36);
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 45%;
+    
+}
+a:hover {
+    background-color: red;
+}
+footer{
+    text-align: center;
+}
